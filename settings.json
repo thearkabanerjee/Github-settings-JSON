@@ -7,7 +7,9 @@
     "terminal.integrated.fontSize": 14,
     "files.autoSave": "afterDelay",
     "editor.minimap.autohide": "mouseover",
-    "editor.lineHeight": 2
+    "editor.lineHeight": 2,
+    "chat.agent.enabled": false,
+    "excalidraw.theme": "dark",
 
 
 }
