@@ -1,0 +1,13 @@
+
+{
+
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.fontSize": 14,
+    "terminal.integrated.fontFamily": "JetBrains Mono",
+    "terminal.integrated.fontSize": 14,
+    "files.autoSave": "afterDelay",
+    "editor.minimap.autohide": "mouseover",
+    "editor.lineHeight": 2
+
+
+}
