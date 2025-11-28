@@ -9,7 +9,7 @@
     "editor.minimap.autohide": "mouseover",
     "editor.lineHeight": 2,
     "chat.agent.enabled": false,
-    "excalidraw.theme": "dark",
+    "excalidraw.theme": "dark"
 
 
 }
